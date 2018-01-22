@@ -55,19 +55,6 @@ findUser = function(db,callback){
   db.collection('Users').find({employeeId:"000047" }).toArray().then((doc) => {
     console.log(doc);
   },(err) => {
-    console.log("Unable to fetch this user",err);
+    console.log("Unable to fetch this u",err);
   });
 }
-
-
-  // findProductByKeyword = function(db,callback){
-  //       db.collection('Products').find({
-  //         category:"000047"
-  //      }).toArray().then((doc) => {
-  //
-  //         console.log(doc);
-  //       },(err) => {
-  //         console.log("Unable to fetch this user",err);
-  //
-  //       });
-  //   }
