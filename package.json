@@ -1,0 +1,14 @@
+{
+  "name": "humesales-api",
+  "version": "1.0.0",
+  "description": "hume app for sales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miley Liu",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.0.1"
+  }
+}
