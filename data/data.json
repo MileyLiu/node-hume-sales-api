@@ -1,0 +1,59 @@
+{"products":[
+  {
+    "id" : "pl000001",
+    "full_name" : "10mm recessed edge ceiling board",
+    "category" : "plaster",
+    "sub_category" : "Speciality Plasterboard",
+    "sub_sub_category" : "Celling Board",
+    "description" : "Ceiling Board is 10mm thick plasterboard used as a ceiling lining where framing members are spaced at up to 600mm centres.",
+    "isPromotion" : false,
+    "images" : [
+        "http://www.humeplaster.com.au/hume/wp-content/uploads/2016/09/10CBM2-104x99.jpg",
+        "http://www.humeplaster.com.au/hume/wp-content/uploads/2016/09/10CBM2_2-104x99.jpg"
+    ],
+    "specfication" : "<p>Physical Properties:</p><p>Thickness: 10mm</p><p>Standard Size: 1200mm*3000mm; 1200mm*3600mm; 1200mm*4200mm; 1200mm*4800mm; 1200mm*6000mm; 1350mm*3000mm; 1350mm*3600mm; 1350mm*4200mm; 1350mm*4800mm; 1350mm*6000mm</p><p>Features & Benefits:</p>"
+},
+{
+    "id" : "mt000002",
+    "full_name" : "(Carton Buy) 90′ Perf External Corner Bead 2100mm (50)ctn",
+    "category" : "metal",
+    "sub_category" : "Drywall Finishing Sections",
+    "sub_sub_category" : "EXANGLE Drywall Finishing Sections",
+    "description" : "Ceiling Board is 10mm thick plasterboard used as a ceiling lining where framing members are spaced at up to 600mm centres.",
+    "isPromotion" : false,
+    "images" : [
+        "http://www.humeplaster.com.au/hume/wp-content/uploads/2016/09/10CBM2-104x99.jpg",
+        "http://www.humeplaster.com.au/hume/wp-content/uploads/2016/09/10CBM2_2-104x99.jpg"
+    ],
+    "specfication" : "Physical Properties:\nThickness: 10mm\nStandard Size: 1200mm*3000mm; 1200mm*3600mm; 1200mm*4200mm; 1200mm*4800mm; 1200mm*6000mm; 1350mm*3000mm; 1350mm*3600mm; 1350mm*4200mm; 1350mm*4800mm; 1350mm*6000mm\nFeatures & Benefits:\n"
+},
+{
+    "id" : "fb000003",
+    "full_name" : "fibre prouduct",
+    "category" : "fibre",
+    "sub_category" : "Speciality Plasterboard",
+    "sub_sub_category" : "Celling Board",
+    "description" : "Ceiling Board is 10mm thick plasterboard used as a ceiling lining where framing members are spaced at up to 600mm centres.",
+    "isPromotion" : false,
+    "images" : [
+        "http://www.humeplaster.com.au/hume/wp-content/uploads/2016/09/10CBM2-104x99.jpg",
+        "http://www.humeplaster.com.au/hume/wp-content/uploads/2016/09/10CBM2_2-104x99.jpg"
+    ],
+    "specfication" : "Physical Properties:\nThickness: 10mm\nStandard Size: 1200mm*3000mm; 1200mm*3600mm; 1200mm*4200mm; 1200mm*4800mm; 1200mm*6000mm; 1350mm*3000mm; 1350mm*3600mm; 1350mm*4200mm; 1350mm*4800mm; 1350mm*6000mm\nFeatures & Benefits:\n"
+},
+{
+    "id" : "tl000004",
+    "full_name" : "tool 1",
+    "category" : "tool",
+    "sub_category" : "sub_category Tool 1",
+    "sub_sub_category" : "",
+    "description" : "Ceiling Board is 10mm thick plasterboard used as a ceiling lining where framing members are spaced at up to 600mm centres.",
+    "isPromotion" : false,
+    "images" : [
+        "http://www.humeplaster.com.au/hume/wp-content/uploads/2016/09/10CBM2-104x99.jpg",
+        "http://www.humeplaster.com.au/hume/wp-content/uploads/2016/09/10CBM2_2-104x99.jpg"
+    ],
+    "specfication" : "Physical Properties:\nThickness: 10mm\nStandard Size: 1200mm*3000mm; 1200mm*3600mm; 1200mm*4200mm; 1200mm*4800mm; 1200mm*6000mm; 1350mm*3000mm; 1350mm*3600mm; 1350mm*4200mm; 1350mm*4800mm; 1350mm*6000mm\nFeatures & Benefits:\n"
+}]
+
+}

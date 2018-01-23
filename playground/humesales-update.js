@@ -20,7 +20,6 @@
       }
     });
 
-
     updateUser = function(db,callback){
       db.collection('Users').findOneAndUpdate({
         employeeId:'000047'},{
@@ -33,8 +32,6 @@
         console.log("Unable update",err);
       });
   }
-
-
 
   updateProduct = function(db,callback){
     db.collection('Products').findOneAndUpdate({

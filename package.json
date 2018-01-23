@@ -9,6 +9,9 @@
   "author": "Miley Liu",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.0.1"
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1",
+    "nodemon": "^1.14.11",
+    "save": "^2.3.2"
   }
 }
