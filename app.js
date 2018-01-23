@@ -3,7 +3,8 @@ var express = require('express');
 var app = express();
 var dataFile = require('./data/data.json');
 // var io = require('socket.io')();
-
+var multer  = require('multer');
+var bodyParser = require('body-parser');
 
 app.set('port',process.env.PORT||3000);
 app.set('appData', dataFile);
@@ -12,7 +13,7 @@ app.set('appData', dataFile);
 
 // app.use(express.static('app/public'));
 app.use(require('./routes/products'));
-app.use(require('./routes/category'));
+// app.use(require('./routes/category'));
 
 // app.use(require('./routes/category'));
 

@@ -11,6 +11,9 @@
       console.log("item");
       pagePhotos = pagePhotos.concat(item.images);
       res.send(data.products);
+      res.statusCode = 300;
+      res.setHeader('Content-Type', 'text/plain');
+
     });
   });
 

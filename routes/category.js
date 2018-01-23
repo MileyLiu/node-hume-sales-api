@@ -12,10 +12,16 @@ router.get('/category/:category', function(req, res) {
   data.products.forEach(function(item) {
     if (item.category == req.params.category) {
       // if (item.id == "fb000003") {
-      console.log("item2:",item.full_name);
+      // console.log("item2:",item.full_name);
       pageProducts.push(item);
       pagePhotos = pageProducts.concat(item.images);
       res.send(pageProducts);
     }
   });
 });
+
+// router.get('/category',function(req.res){
+//
+// var data =
+//
+// });
